@@ -14,3 +14,4 @@ BuildingEscape/Content/StarterContent/
 BuildingEscape/.vs/BuildingEscape/v15/Browse.VC.opendb
 BuildingEscape/.vs/BuildingEscape/v15/Solution.VC.db-shm
 BuildingEscape/.vs/BuildingEscape/v15/Solution.VC.db-wal
+*.ipch
